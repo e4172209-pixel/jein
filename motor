@@ -1,0 +1,3 @@
+[mcp_servers.mottor]
+url = "https://api.lpmotor.ru/v3/mcp"
+http_headers = { "Authorization" = "Bearer OGExOGRhOGU0NGU1N2ZhZGYwYTM2NThmZGQyNDI3MWRmMWZiMzUyYTlhMWI5ZGIxMTQ2MzJjYmQ0ZjdkYzlhOQOTcwZjMzODAwNDFjOGY1MzBjMDZjNjcyMjljNWI0ZTE4M2ZmZGNkYjY2MWViMGU5ZDNhNWJhYzZlMmNmMDE5MQ", "X-Api-User-Id" = "913090" }~/.codex/config.toml
